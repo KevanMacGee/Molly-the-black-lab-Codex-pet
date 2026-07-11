@@ -1,0 +1,7 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": ["Minor secondary-axis subtleties accepted by independent labeled loop review."],
+  "standard_rows": "Preserved from validated original Molly v1 atlas.",
+  "visual_qa": "pass"
+}

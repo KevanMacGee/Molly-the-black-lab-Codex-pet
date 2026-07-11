@@ -1,0 +1,19 @@
+﻿{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "C:\\Users\\User\\Development\\Molly-the-black-lab-Codex-pet\\molly-v2-run",
+  "spritesheet": "C:\\Users\\User\\Development\\Molly-the-black-lab-Codex-pet\\molly-v2-run\\final\\spritesheet-extended.webp",
+  "installed_spritesheet": "C:\\Users\\User\\.codex\\pets\\molly\\spritesheet.webp",
+  "validation": "C:\\Users\\User\\Development\\Molly-the-black-lab-Codex-pet\\molly-v2-run\\final\\validation-installed.json",
+  "chroma_despill": "C:\\Users\\User\\Development\\Molly-the-black-lab-Codex-pet\\molly-v2-run\\qa\\chroma-despill-extended.json",
+  "contact_sheet": "C:\\Users\\User\\Development\\Molly-the-black-lab-Codex-pet\\molly-v2-run\\qa\\contact-sheet-extended.png",
+  "direction_sheet": "C:\\Users\\User\\Development\\Molly-the-black-lab-Codex-pet\\molly-v2-run\\qa\\look-directions.png",
+  "direction_semantics": "C:\\Users\\User\\Development\\Molly-the-black-lab-Codex-pet\\molly-v2-run\\qa\\direction-semantics.json",
+  "blind_direction_validation": "C:\\Users\\User\\Development\\Molly-the-black-lab-Codex-pet\\molly-v2-run\\qa\\direction-blind-validation.json",
+  "blind_review_resolution": "C:\\Users\\User\\Development\\Molly-the-black-lab-Codex-pet\\molly-v2-run\\qa\\blind-review-resolution.json",
+  "continuity": "C:\\Users\\User\\Development\\Molly-the-black-lab-Codex-pet\\molly-v2-run\\qa\\look-continuity.json",
+  "review": "C:\\Users\\User\\Development\\Molly-the-black-lab-Codex-pet\\molly-v2-run\\qa\\review.json",
+  "package": "C:\\Users\\User\\.codex\\pets\\molly",
+  "backup": "C:\\Users\\User\\Development\\Molly-the-black-lab-Codex-pet\\molly-v2-run\\backup-v1"
+}
+

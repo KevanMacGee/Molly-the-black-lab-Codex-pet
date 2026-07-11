@@ -1,0 +1,7 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "failed_checks": ["intermediate blind-axis ambiguities", "continuity metric warnings at 157.5->180 and 337.5->000"],
+  "evidence": "Independent labeled normal-size review confirms every intermediate remains in its intended quadrant; 315 is up-left; both boundary transitions preserve identity and show no reversal, broken silhouette, conspicuous registration jump, or major scale pop.",
+  "reviewed_by": "independent visual QA worker"
+}
